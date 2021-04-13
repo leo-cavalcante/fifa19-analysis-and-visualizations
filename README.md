@@ -12,7 +12,7 @@
 - [Organization](#organization)
 - [Links](#links)
 
-<div style="text-align:center"><img src="https://images-na.ssl-images-amazon.com/images/I/61XSwx9HaZL._AC_SX679_.jpg" alt="FIFA videogame cover with Cristiano Ronaldo" height="300"/></div>
+<div style="text-align:center"><a href="https://docs.google.com/presentation/d/1XLdzy3sR2AVk0apq9z-DJor_tgyoy7XSe-rjNo4W43M/edit?usp=sharing"><img src="FIFA19 Cover.png" alt="Cover of FIFA19 Google Slides Presentation, with Neymar, Dybala and Kevin De Bruyne" height="300"/></a></div>
 
 ## Project Description
 **Football analytics**: Data Analysis and Visualizations using the [FIFA19 dataset](https://www.kaggle.com/karangadiya/fifa19) from Kaggle.
@@ -28,8 +28,8 @@ Data scraped from https://sofifa.com/
 Inspired from this dataset: https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset
 
 ## Objective
-- Practice visualization tools using Python (and the libraries MatplotLib and Seaborn) learned during the Week 4 of the Data Analytics Bootcamp of Ironhack.
-- Deliver descriptive insights from the dataset in a performance and business.
+- Practice visualization tools using `Python` (and the libraries `MatplotLib` and `Seaborn`) learned during the Week 4 of the Data Analytics Bootcamp of Ironhack.
+- Deliver descriptive insights from the dataset.
 
 ## Workflow
 1. Import the dataset into a dataframe.
@@ -46,6 +46,8 @@ Inspired from this dataset: https://www.kaggle.com/thec03u5/fifa-18-demo-player-
 ## Links
 Here you may find the relevant links for the repository, the main code and the final presentation slides.
 
-[FIFA19_vFinal](https://github.com/leo-cavalcante/fifa-19-analysis-and-visualizations/blob/master/FIFA19_vFinal.ipynb)  
 [GitHub Repository: fifa-19-analysis-and-visualizations](https://github.com/leo-cavalcante/fifa-19-analysis-and-visualizations)  
-[Google Slides - FIFA19 Presentation](https://docs.google.com/presentation/d/1XLdzy3sR2AVk0apq9z-DJor_tgyoy7XSe-rjNo4W43M/edit#slide=id.g60177929be_4_159)
+
+[Google Slides: FIFA19 Presentation](https://docs.google.com/presentation/d/1XLdzy3sR2AVk0apq9z-DJor_tgyoy7XSe-rjNo4W43M/edit#slide=id.g60177929be_4_159)
+
+[Jupyter Notebook: FIFA19_vFinal](https://github.com/leo-cavalcante/fifa-19-analysis-and-visualizations/blob/master/FIFA19_vFinal.ipynb)  
