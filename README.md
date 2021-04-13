@@ -39,12 +39,12 @@ Inspired from this dataset: https://www.kaggle.com/thec03u5/fifa-18-demo-player-
 5. Export results and conceal presentation.
 
 ## Organization
-- Repository "https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-4/" : you may find my main Python codes stored as a Jupyter Notebook format, also the folder "Pictures" used to store pictures used for the code and also the folder Graphs with the visualizations produced in the notebook.
+- Repository "https://github.com/leo-cavalcante/fifa-19-analysis-and-visualizations" : you may find my main Python codes stored as a Jupyter Notebook format, also the folder "Players" used to store players pictures used for the code and also the folder "Visualizations" with the visualizations produced in the notebook.
 
 *PS.: individual project.*
 
 ## Links
-Here you may find the relevant links for my repository, my main code  and presentation slides.
+Here you may find the relevant links for the repository, the main code and the final presentation slides.
 
 [FIFA19_vFinal](https://github.com/leo-cavalcante/fifa-19-analysis-and-visualizations/blob/master/FIFA19_vFinal.ipynb)  
 [GitHub Repository: fifa-19-analysis-and-visualizations](https://github.com/leo-cavalcante/fifa-19-analysis-and-visualizations)  
