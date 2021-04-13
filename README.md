@@ -41,7 +41,7 @@ Inspired from this dataset: https://www.kaggle.com/thec03u5/fifa-18-demo-player-
 ## Organization
 - Repository "https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-4/" : you may find my main Python codes stored as a Jupyter Notebook format, also the folder "Pictures" used to store pictures used for the code and also the folder Graphs with the visualizations produced in the notebook.
 
-- PS.: individual project.
+*PS.: individual project.*
 
 ## Links
 Here you may find the relevant links for my repository, my main code  and presentation slides.
