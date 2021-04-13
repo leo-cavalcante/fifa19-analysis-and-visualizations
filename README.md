@@ -12,7 +12,7 @@
 - [Organization](#organization)
 - [Links](#links)
 
-<div style="text-align:center"><img src="https://images-na.ssl-images-amazon.com/images/I/61XSwx9HaZL._AC_SX679_.jpg" alt="Ironhack Logo" height="300"/></div>
+<div style="text-align:center"><img src="https://images-na.ssl-images-amazon.com/images/I/61XSwx9HaZL._AC_SX679_.jpg" alt="FIFA videogame cover with Cristiano Ronaldo" height="300"/></div>
 
 ## Project Description
 **Football analytics**: Data Analysis and Visualizations using the [FIFA19 dataset](https://www.kaggle.com/karangadiya/fifa19) from Kaggle.
@@ -47,5 +47,5 @@ Inspired from this dataset: https://www.kaggle.com/thec03u5/fifa-18-demo-player-
 Here you may find the relevant links for my repository, my main code  and presentation slides.
 
 [FIFA19_vFinal](https://github.com/leo-cavalcante/fifa-19-analysis-and-visualizations/blob/master/FIFA19_vFinal.ipynb)  
-[GitHub Repository](https://github.com/leo-cavalcante/fifa-19-analysis-and-visualizations)  
+[GitHub Repository: fifa-19-analysis-and-visualizations](https://github.com/leo-cavalcante/fifa-19-analysis-and-visualizations)  
 [Google Slides - FIFA19 Presentation](https://docs.google.com/presentation/d/1XLdzy3sR2AVk0apq9z-DJor_tgyoy7XSe-rjNo4W43M/edit#slide=id.g60177929be_4_159)
